@@ -1,7 +1,10 @@
 
  <div align="center">
   <h1>Bem Vindos(as)</h1>
-  <strong> Olá, Me chamo Lorena, sou desenvolvedora front-end, com javascript e alguns framework, apaixonada por design e arquitetura web. Incluo a minha experiência de vida em organização, apresentação e design do meu trabalho. Estou sempre interessada em um novo desafio. Acredito que dedicação é a chave para o sucesso.  👋</strong>
+  <strong> Olá, me chamo Lorena e sou uma entusiasta apaixonada pelo desenvolvimento front-end. Tenho um profundo interesse pela interseção entre design e arquitetura web, buscando sempre aprimorar minhas habilidades por meio de experiências pessoais significativas. Tenho uma abordagem dedicada e estou em constante busca por novos desafios, pois acredito que a dedicação é o pilar central para o sucesso.
+Minha jornada é pavimentada com habilidades que incluem HTML, CSS, JavaScript, React.js, TypeScript, Node.js, Sass, Styled Components, Bootstrap, Git, GitHub, Netx.js, Cypress, MongoDB, SQL e Express.js. Atualmente, atuo como desenvolvedora frontend, desempenhando um papel vital na criação de interfaces desde a fase de concepção até a implementação. Faço uso de tecnologias e bibliotecas como ReactJS, Next.js, TypeScript, Styled Components, Figma, Git, Azure DevOps, Cypress, Zustand, Formik, Yup, entre outras.
+Meu trabalho é baseado em colaboração próxima com a equipe de design, garantindo uma experiência de usuário excepcional em cada projeto.
+Acredito que dedicação é a chave para o sucesso.  👋</strong>
 </div>
 <br>
 
