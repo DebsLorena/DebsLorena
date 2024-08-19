@@ -1,27 +1,23 @@
 
  <div align="center">
-  <h1>Bem Vindos(as)</h1>
-  <strong> Olá, me chamo Lorena e sou uma entusiasta apaixonada pelo desenvolvimento front-end. Tenho um profundo interesse pela interseção entre design e arquitetura web, buscando sempre aprimorar minhas habilidades por meio de experiências pessoais significativas. 
-   
-   Minha jornada é marcada por uma busca constante de aprimoramento habilidoso, impulsionada por experiências enriquecedoras. Abordo cada desafio com dedicação incansável, pois acredito profundamente que é essa determinação que traça o caminho para o sucesso.
+  <h1>Olá,  👋</h1>
+  <strong>Me chamo Lorena, sou desenvolvedora front-end com o objetivo de me tornar fullstack, explorando o mundo do Java. Tenho um profundo interesse pela interseção entre design e arquitetura web, sempre buscando aprimorar minhas habilidades por meio de experiências pessoais significativas.
 
-   Minha trajetória é pavimentada com tecnologias, como HTML, CSS, JavaScript, React.js, TypeScript, Node.js, Sass, Styled Components, Bootstrap, Git, GitHub, Next.js, Figma, Azure DevOps, Cypress , Zustand, Formik, Yup e MongoDB, grande parte utilizo diariamente no meu dia a dia.
+Minha jornada é marcada por uma busca constante por aprimoramento, impulsionada por experiências enriquecedoras. Encaro cada desafio com dedicação, pois acredito que é essa determinação que define o caminho para o sucesso.
 
-Como desenvolvedora front-end, trabalho na criação de interfaces desde a fase de concepção até a implementação final. 
+Ao longo da minha trajetória, tenho trabalhado com uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, React.js, React Native, Next.js, TypeScript, Node.js, Sass, Styled Components, Bootstrap, Tailwind, Git, GitHub, Figma, Azure DevOps, Cypress, Zustand, Redux, GraphQL e Liferay. Utilizo muitas dessas ferramentas diariamente.
 
-O que realmente me destaca é a parceria estreita que mantenho com a equipe de design. 
+Como desenvolvedora front-end, atuo na criação de interfaces, desde a fase de concepção até a implementação final.
 
-Essa colaboração garante a entrega consistente de experiências de usuário especializado em todos os projetos. Estou ansiosa para abraçar novos desafios e continuar explorando as inúmeras possibilidades emocionantes que o desenvolvimento de código tem a me oferecer. 
+Estou entusiasmada para abraçar novos desafios e continuar explorando as inúmeras possibilidades que o desenvolvimento de software oferece.
 
-Nesse caminho, continuo a trilhar minha jornada com a mesma paixão que me impulsionou desde o início.
-  👋</strong>
+
+ </strong>
 </div>
 <br>
 
 
 ## 
-
-> Atualmente atuo como freelancer e trilho meu caminho com HTML5 | CSS3 | Javascript | React | Typescript | Git & Github | Sass | Bootstrap | NodeJS. 👩‍💻
 
 
 
