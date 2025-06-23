@@ -1,7 +1,7 @@
 
  <div align="center">
   <h1>Olá,  👋</h1>
-  <strong>Me chamo Lorena, sou desenvolvedora front-end com o objetivo de me tornar fullstack, explorando o mundo do Java. Tenho um profundo interesse pela interseção entre design e arquitetura web, sempre buscando aprimorar minhas habilidades por meio de experiências pessoais significativas.
+  <strong>Me chamo Lorena, sou desenvolvedora front-end caminhando para fullstack. Tenho um profundo interesse pela interseção entre design e arquitetura web, sempre buscando aprimorar minhas habilidades por meio de experiências pessoais significativas.
 
 Minha jornada é marcada por uma busca constante por aprimoramento, impulsionada por experiências enriquecedoras. Encaro cada desafio com dedicação, pois acredito que é essa determinação que define o caminho para o sucesso.
 
