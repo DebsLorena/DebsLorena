@@ -26,7 +26,7 @@ Estou entusiasmada para abraçar novos desafios e continuar explorando as inúme
     <h6>Feito com ❤️ by DebsLorena</h6>
     <a href="https://www.linkedin.com/in/loredebs/"><strong>Linkedin</strong></a></br>
     <a href="https://www.instagram.com/debslorena/"><strong>Instagram</strong></a></br>
-    <a href="https://debslorena.github.io/developer-frontend/"><strong>Portfólio</strong></a>
+    <a href="https://portifolio-dl.vercel.app/"><strong>Portfólio</strong></a>
    
 </div>
 
